@@ -1,0 +1,16 @@
+POST /ESP/esp8266POST.php HTTP/1.1
+Host: appoee.hol.es
+Connection: keep-Alive
+Content-Length: 38
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: es-ES,es;q=0.9,en;q=0.8
+Referer: http://appoee.hol.es/ESP/
+Cookie: ga=GA1.2.77668643.1533938207; gid=GA1.2.1679388458.1533938207
+
+
+temperature=88&humidity=88&enviar=send
+
+
+// este si funcionó bien
