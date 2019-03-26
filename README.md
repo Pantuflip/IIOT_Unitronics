@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# IIOT_Unitronics
 
-You can use the [editor on GitHub](https://github.com/Pantuflip/IIOT_Unitronics/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Motivación
+La finalidad de este desarrollo es contar con un forma de conectar PLC's o microcontroladores para guardar información en archivos planos o bases de datos.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Ubicación de las pruebas
 
-### Markdown
+Tu puedes ver los resultados de algunas pruebas en en siguiente link [Pruebas en la nube](http://appoee.hol.es/IIOT_Unitronics/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Información de contacto
+Soy Rafael Zapata Grau y puedes ver mi trabajo o contactarme por medio de la página [RZG Control](https://rzgcontrol.com/)
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Rafael Zapata Grau
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Pantuflip/IIOT_Unitronics/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
